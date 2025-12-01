@@ -1,2 +1,6 @@
-# precticerepo
-my first github repository
+# 1.오픈소스 소프트웨어
+# 2.리녹스
+## 2.1. 명령어 종류
+# 3. github
+# 3.1. github 활용법
+### 3.1.1 로컬 레포지토리에서
