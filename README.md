@@ -1,4 +1,7 @@
 # 1.오픈소스 소프트웨어
+오픈소스 라이선스 종류 : gpl, apache license, mit, bsd cc, mpl , agpl  
+오픈소스 형태의 운영체제 : 리눅스(bunbun)  
+개발 시 활영되는    
 # 2.리녹스
 ## 2.1. 명령어 종류
 # 3. github
